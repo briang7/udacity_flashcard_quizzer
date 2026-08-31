@@ -1,0 +1,13 @@
+{
+  "deck_name": "Python Basics",
+  "cards": [
+    {"front": "What keyword defines a function in Python?", "back": "def"},
+    {"front": "What data type results from 3 / 2 in Python 3?", "back": "float"},
+    {"front": "Which list method adds an item to the end?", "back": "append"},
+    {"front": "What does len() return for a string?", "back": "the number of characters"},
+    {"front": "What symbol starts a single-line comment?", "back": "#"},
+    {"front": "Which built-in converts a string to an integer?", "back": "int"},
+    {"front": "What keyword starts a loop that runs while a condition is true?", "back": "while"},
+    {"front": "What is bool([]) — the truthiness of an empty list?", "back": "False"}
+  ]
+}

@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Testing / coverage (regenerate with: python -m pytest --cov)
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime artifacts from --export (the sample decks in data/ ARE committed)
+/results.json
+/data/results.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS / download markers
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+*_Zone.Identifier
+
+# Logs
+*.log
